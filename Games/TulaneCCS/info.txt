@@ -1,0 +1,4 @@
+ScoreLimit:15
+Team:Tulane
+Tournament:CCS
+Date:12/7/19
