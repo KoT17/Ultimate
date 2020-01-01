@@ -1,3 +1,4 @@
+Name,Score,Assist,Defenses,Touches,Flick Thows,Backhand throws,Breaks,Broken,Cuts,Turns,Drops,Hammer,Scoober,Cuts + Catch,Scored On :(
 Adam,,,,2,1,1,1,,,,,,,,1
 Adrian,,,,,,,,2,,,,,,,
 Fudge,,,1,,,,,1,,,,,,,
@@ -6,11 +7,12 @@ Nelson,,,,,,,,1,,,,,,,
 Reese,,,,,,,,3,,,,,,,
 Trevyr,,,,,,,,1,,,,,,,
 Gaines,,,,,,,,1,,,,,,,
-Name,Score,Assist,Defenses,Touches,Flick Thows,Backhand throws,Breaks,Broken,Cuts,Turns,Drops,Hammer,Scoober,Cuts + Catch,Scored On :(
 ,,,,,,,,,,,,,,,
 Broken Sequence,1,1,1,1,-1,2,2,,,,,,,,
 Break Sequence,1,,,,,,,,,,,,,,
-Defense Scheme ,Zone(Sponge),,,,,,,,,,,,,,
+Defense Scheme ,Zone,Sponge,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
-Started Defense,,,,,,,,,,,,,,,
+Started,Defense,,,,,,,,,,,,,,
 Time,7:12,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+Name,Score,Assist,Defenses,Touches,Flick Thows,Backhand throws,Breaks,Broken,Cuts,Turns,Drops,Hammer,Scoober,Cuts + Catch,Scored On :(

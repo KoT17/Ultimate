@@ -1,3 +1,4 @@
+Name,Score,Assist,Defenses,Touches,Flick Thows,Backhand throws,Breaks,Broken,Cuts,Turns,Drops,Hammer,Scoober,Cuts + Catch,Scored On :(
 Adam,,,,1,,1,,,4,,,,,1,
 Adrian,,,,2,2,,1,1,5,,,,,2,
 Andrew,1,,,1,,1,,1,6,,,,,2,
@@ -6,11 +7,10 @@ Hankin,,,,3,3,,,,5,,,,,2,
 Nelson,,,,3,1,2,,,4,,,,,1,
 Reese,,,,2,1,1,,,6,,,,,2,
 ,,,,,,,,,,,,,,,
-Name,Score,Assist,Defenses,Touches,Flick Thows,Backhand throws,Breaks,Broken,Cuts,Turns,Drops,Hammer,Scoober,Cuts + Catch,Scored On :(
 ,,,,,,,,,,,,,,,
 Broken Sequence,1,1,,,,,,,,,,,,,
 Break Sequence,1,1,,,,,,,,,,,,,
-Defense Scheme ,Man(Flick),,,,,,,,,,,,,,
+Defense Scheme ,Man,Flick,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
-Started Defense,,,,,,,,,,,,,,,
+Started,Defense,,,,,,,,,,,,,,
 Time,3:02,,,,,,,,,,,,,,

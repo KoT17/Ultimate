@@ -1,3 +1,4 @@
+Name,Score,Assist,Defenses,Touches,Flick Thows,Backhand throws,Breaks,Broken,Cuts,Turns,Drops,Hammer,Scoober,Cuts + Catch,Scored On :(
 Adam,,,,8,3,5,1,,2,,,,,1,
 Diego,,,,2,,2,1,,1,,1,,,,1
 Fudge,,,,5,,5,1,,6,,1,,,2,
@@ -6,12 +7,11 @@ Hankin,,,,1,,1,,,9,,,,,1,
 Matt,,,,1,,1,,,8,,,,,1,
 McFerran,,,,1,,1,,,7,,,,,1,
 ,,,,,,,,,,,,,,,
-Name,Score,Assist,Defenses,Touches,Flick Thows,Backhand throws,Breaks,Broken,Cuts,Turns,Drops,Hammer,Scoober,Cuts + Catch,Scored On :(
 ,,,,,,,,,,,,,,,
 Broken Sequence,,,,,,,,,,,,,,,
 Break Sequence,1,1,3,,,,,,,,,,,,
-Defense Scheme ,Zone(Wall),,,,,,,,,,,,,,
+Defense Scheme ,Zone,Wall,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
-Started Offense,,,,,,,,,,,,,,,
+Started,Offense,,,,,,,,,,,,,,
 Time,3:42,,,,,,,,,,,,,,
 Pull Play,Flow,,,,,,,,,,,,,,

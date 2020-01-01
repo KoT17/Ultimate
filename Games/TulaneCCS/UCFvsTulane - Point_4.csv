@@ -1,3 +1,4 @@
+Name,Score,Assist,Defenses,Touches,Flick Thows,Backhand throws,Breaks,Broken,Cuts,Turns,Drops,Hammer,Scoober,Cuts + Catch,Scored On :(
 Adam,,,,,,,,,3,,,,,,
 Diego,,,,3,1,2,,,,1,,,,,
 Fudge,,,,3,,3,,,,,,,,,
@@ -6,12 +7,11 @@ Matt,,,,,,,,,3,,,,,,
 McFerran,,,,,,,,,1,,,,,,
 Ross,,,,,,,,,4,,,,,,1
 ,,,,,,,,,,,,,,,
-Name,Score,Assist,Defenses,Touches,Flick Thows,Backhand throws,Breaks,Broken,Cuts,Turns,Drops,Hammer,Scoober,Cuts + Catch,Scored On :(
 ,,,,,,,,,,,,,,,
 Broken Sequence,,,,,,,,,,,,,,,
 Break Sequence,,,,,,,,,,,,,,,
-Defense Scheme ,Zone (Wall),,,,,,,,,,,,,,
+Defense Scheme ,Zone,Wall,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
-Started Offense,,,,,,,,,,,,,,,
+Started,Offense,,,,,,,,,,,,,,
 Time,1:08,,,,,,,,,,,,,,
-Pull Play,Pitt Sweep (2),Adam,F,,,,,,,,,,,,
+Pull Play,Pitt Sweep,2,Adam,F,,,,,,,,,,,

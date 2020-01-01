@@ -1,3 +1,4 @@
+Name,Score,Assist,Defenses,Touches,Flick Thows,Backhand throws,Breaks,Broken,Cuts,Turns,Drops,Hammer,Scoober,Cuts + Catch,Scored On :(
 Adam,,,,,,,,,,,,,,,
 Adrian,,,,,,,,,,,,,,,
 Gaines,,,,,,,,,,,,,,,
@@ -6,11 +7,10 @@ McFerran,,,,,,,,,,,,,,,
 Nelson,,,,,,,,1,,,,,,,
 Reese,,,,,,,,2,,,,,,,
 ,,,,,,,,,,,,,,,
-Name,Score,Assist,Defenses,Touches,Flick Thows,Backhand throws,Breaks,Broken,Cuts,Turns,Drops,Hammer,Scoober,Cuts + Catch,Scored On :(
 ,,,,,,,,,,,,,,,
 Broken Sequence,1,2,,,,,,,,,,,,,
 Break Sequence,,,,,,,,,,,,,,,
-Defense Scheme ,Zone(Sponge),McFerran/Reese/Adrian,,,,,,,,,,,,,
+Defense Scheme ,Zone,Sponge,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
-Started Defense,,,,,,,,,,,,,,,
+Started,Defense,,,,,,,,,,,,,,
 Time,1:27,,,,,,,,,,,,,,
