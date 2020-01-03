@@ -5,7 +5,7 @@
 
 using namespace std;
 
-bool teamScores(int players[][16]);
+bool team_scores(int players[][16]);
 string* prompt();
 void process_game(int scoreCap, string input[2]);
 vector<vector<int>> convert_player_data(string playerRawInfo[][16]); // May need to convert to vector
@@ -31,7 +31,7 @@ void process_game(int scoreCap, string input[2]) {
 
     cout << "Point " << to_string(count) << " has been processed" << endl;
     count++;
-    /*if(teamScores(playerConverted))
+    /*if(team_scores(playerConverted))
       homeScore++;
     else
       opponentScore++;*/
@@ -43,7 +43,7 @@ void process_game(int scoreCap, string input[2]) {
 
 // May tranverse the player array to determine scores instead of (n^2) apporach
 
-bool teamScores(int players[][16]) {
+bool team_scores(int players[][16]) {
 
 }
 
