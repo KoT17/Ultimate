@@ -1,7 +1,9 @@
 #include <iostream>
 #include <fstream>
 #include <string>
-#include<vector>
+#include <vector>
+
+#include "pull_object.h"
 
 using namespace std;
 
@@ -66,8 +68,13 @@ string* prompt() {
 
 int main() {
     ifstream folder;
-    string opponent, tournament, scoreLimit;
+    string scoreLimit;
     string* input;
+
+    // Currently trying to get pull objects to function
+    pull_object temp;
+    temp.position = 2;
+
 
     input = prompt();//Opponent = [0] Tournament = [1]
 
