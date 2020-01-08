@@ -2,6 +2,7 @@
 #include <fstream>
 #include <string>
 #include <vector>
+#include <cstring>
 
 #include "pull_object.h"
 
@@ -10,7 +11,7 @@ using namespace std;
 bool team_scores(int players[][16]);
 string* prompt();
 void process_game(int scoreCap, string input[2]);
-vector<vector<int>> convert_player_data(string playerRawInfo[][16]); // May need to convert to vector
+vector<vector<int> > convert_player_data(string playerRawInfo[][16]); // May need to convert to vector
 
 void process_game(int scoreCap, string input[2]) {
   ifstream pointFile;
@@ -20,7 +21,7 @@ void process_game(int scoreCap, string input[2]) {
   string titles[16];
   string playerRawInfo[7][16];
 
-  vector<vector<int>> playerConverted;
+  vector<vector<int> > playerConverted;
 
   while (opponentScore < scoreCap && homeScore < scoreCap) {
     pointFile.open("Games/"+input[0]+input[1]+"/UCFvs"+input[0]+"\ -\ Point_"+to_string(count)+".csv");
@@ -49,8 +50,8 @@ bool team_scores(int players[][16]) {
 
 }
 
-vector<vector<int>> convert_player_data(string playerRawInfo[][16]) {
-  vector<vector<int>> result;
+vector<vector<int> > convert_player_data(string playerRawInfo[][16]) {
+  vector<vector<int> > result;
 
   return result;
 }
@@ -71,9 +72,13 @@ int main() {
     string scoreLimit;
     string* input;
 
+    string temp;
+    temp = "";
     // Currently trying to get pull objects to function
-    pull_object temp;
-    temp.position = 2;
+    pull_object pull(10, temp, temp);
+
+    cout << pull.position << endl;
+    //temp.position = 2;
 
 
     input = prompt();//Opponent = [0] Tournament = [1]

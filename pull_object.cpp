@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <string>
+#include <iostream>
 #include <cstring>
 
 #include "pull_object.h"
@@ -11,7 +12,7 @@ pull_object::pull_object() {
 
   position = -2;
   name = temp;
-  position = temp;
+  success = temp;
 
 }
 pull_object::pull_object(int p, string n, string s) {

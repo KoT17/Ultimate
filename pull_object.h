@@ -10,7 +10,7 @@ public:
 
   pull_object();
   pull_object(int p, string n, string s);
-  bool is_succesful();
+  bool is_successful();
   int get_position();
   string get_name();
 };
